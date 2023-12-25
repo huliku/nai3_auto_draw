@@ -13,6 +13,11 @@
 * chromedriver
 * openpyxl
 
+# 可用脚本：
+* randomize：简单的提示词随机脚本，适用于短时间挂机（1-2小时）
+* extended idle time：randomize升级版，适用于长时间挂机（无上限）
+* 不断点击功能：不停的帮你点击生成，适用于平时生图
+
 # randomize：
 
 ### 1.账号登入
